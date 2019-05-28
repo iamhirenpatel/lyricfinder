@@ -1,4 +1,4 @@
-[![](http://img.youtube.com/vi/NhUrW0SsdLo/0.jpg)](http://www.youtube.com/watch?v=NhUrW0SsdLo "")
+[![](http://img.youtube.com/vi/NhUrW0SsdLo/0.jpg)](http://www.youtube.com/watch?v=NhUrW0SsdLo )
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
